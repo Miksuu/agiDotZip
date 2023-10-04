@@ -50,7 +50,7 @@ c: curriculum, create 2-3 sidequest tasks based on discovering diverse things le
 p: printDB
 x: write code to save memory.sql, tasks, msg, zip all files, agi.zip, /mnt/data, download link
 xk: save new skill
-plus Z: 1 crazy suggestion, genius idea, wildcard command Z
+z: 1 crazy suggestion, genius idea, wildcard command Z
 
 k: show all hidden hotkeys + WASDv2
 l: Skill Library {
