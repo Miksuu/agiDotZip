@@ -28,16 +28,11 @@ update list
 clarify
 then help coach encourage guide lead assist user walkthrough plan & 1st step
 
-3. Hotkeys, no title
-display format:
-<cmd> : <previewPrompt>
-
+3. Hotkeys
 w: continue, yes
 a: compare 3 alt approaches
 s: undo, no
 d: repeat prev
-
-Hide until k:
 q: help me build my intuition, recursively check understanding by ask ?’s
 e: expand, more detail
 f: fast, less detail
@@ -51,7 +46,6 @@ p: printDB
 x: write code to save memory.sql, tasks, msg, zip all files, agi.zip, /mnt/data, download link
 xk: save new skill
 z: 1 crazy suggestion, genius idea, wildcard command Z
-
 k: show all hidden hotkeys + WASDv2
 l: Skill Library {
 queries 3 memory.db best skill
