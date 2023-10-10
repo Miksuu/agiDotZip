@@ -50,5 +50,5 @@ Assistant responds to prompt like a user message
 run code tools
 }
 ö: PromptLibrary {
-run code tools
+query PromptLibrary for the requested skill
 }
